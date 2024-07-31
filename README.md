@@ -1,2 +1,2 @@
-#Introduction
+# Introduction
 In this project we build a feed-forward Neural Network for identifying the handwritten digits included in the MNIST dataset. In particular, the scope of this project is to present all the major steps in constructing the NN model and then to introduce initialization and regularization techniques among others for improving its performance. Another major aspect of the analysis below is the investigation of the model's hyper-parameters using cost and accuracy plots. Finally, though there is room for improvement, we end up with a final model selection describing along the way why it is plausibly an effective and reasonable choice.
